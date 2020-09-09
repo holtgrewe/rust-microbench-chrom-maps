@@ -1,0 +1,10 @@
+[package]
+name = "rust-microbench-chrom-maps"
+version = "0.1.0"
+authors = ["Manuel Holtgrewe <manuel.holtgrewe@bihealth.de>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+linear-map = "1.2"
+hashbrown = "0.3"
